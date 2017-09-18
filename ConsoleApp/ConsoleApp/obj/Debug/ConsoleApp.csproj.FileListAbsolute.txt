@@ -5,3 +5,7 @@ C:\Users\User\Documents\GitHub\th-\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.ex
 C:\Users\User\Documents\GitHub\th-\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
 C:\Users\User\Documents\GitHub\th-\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\User\Documents\GitHub\th-\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\thuchanh\Documents\GitHub\th-\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\thuchanh\Documents\GitHub\th-\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\thuchanh\Documents\GitHub\th-\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\thuchanh\Documents\GitHub\th-\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
