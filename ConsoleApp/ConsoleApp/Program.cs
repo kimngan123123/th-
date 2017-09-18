@@ -38,7 +38,7 @@ namespace consoleApp
                                  c.Ho,
                                  c.Ten,
                                  c.DiaChi,
-                                 c.SDT;
+                                 c.SDT);
             }
             Console.ReadLine();
         }
